@@ -14,7 +14,7 @@ body{
     margin: 0;
 }
 .music-details{
-    background-color: red;
+    background-color: rgb(190, 34, 34)(190, 30, 30);
     border-radius: 15px;
     box-shadow: 0 20px 0 20px rgba(252,169,169,0.6);
     padding: 20px 30px;
@@ -30,7 +30,7 @@ body{
 }
 .img-info::after{
     content:"" ;
-    background-color: blue;
+    background-color: aqua;
     border-radius: 50%;
     position: absolute;
     bottom: 100%;
