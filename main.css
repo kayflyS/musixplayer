@@ -47,7 +47,7 @@ body {
   transform: translate(-50%, 50%);
 }
 
-.img-container img {
+/* .img-container img {
   border-radius: 50%;
   object-fit: cover;
   height: 110px;
@@ -58,7 +58,7 @@ body {
   animation: rotate 3s linear infinite;
 
   animation-play-state: paused;
-}
+} */
 
 .music-container.play .img-container img {
   animation-play-state: running;
