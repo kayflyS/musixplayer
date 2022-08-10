@@ -64,13 +64,13 @@ body{
     }
 }
 
-.navi{
+/* .navi{
     display: flex;
     align-items: center;
     justify-content: center;
     z-index: 1;
 
-}
+} */
 .actionbtn{
     background-color: green;
     border: 0;
