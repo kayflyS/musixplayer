@@ -30,10 +30,10 @@ body {
   z-index: 10;
 } */
 
-.img-container {
+/* .img-container {
   position: relative;
   width: 110px;
-}
+} */
 
 .img-container::after {
   content: '';
