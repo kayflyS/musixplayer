@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diamond shield security</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="shortcut icon" href="./assests/logo2.png" type="image/x-icon">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <img src="./assests/logo2.png" alt="">
+            <h4>DIAMOND SHIELD SECURITY</h4>
+        </div>
+    </div>
+    <table>
+        <tr>
+            <th>#</th>
+            <th>DETAILS</th>
+            <th>VALUE</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Date of deposit</td>
+            <td>06 March 2022</td>
+        </tr>
+            <tr>
+            <td>2</td>
+            <td>Name of Depositor(s)</td>
+            <td>Ringler Johnson</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Address of Depositor(s)</td>
+            <td>22 blake st,Austin, TX</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Content of Deposit</td>
+            <td>Two Trunk</td>
+        </tr>
+    
+        <tr>
+            <td>5</td>
+            <td>Payment History</td>
+            <td> USD67,200.00</td>
+        <tr>
+            <td>6</td>
+            <td>Amount paid on Deposit</td>
+            <td>USD1200.00</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>Agreed payment for a Month</td>
+            <td>USD1200.00</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>Total amount to be Paid</td>
+            <td>USD1200.00</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>Total Balance</td>
+            <td>USD68,400.00</td>
+        </tr>
+    </table>
+    </div>
+    
+</body>
+</html>
